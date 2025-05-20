@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PahlawanIndonesia</string>
+    <string name="nama">Nama Pahlawan</string>
+    <string name="deskripsi">Deskripsi Pahlawan</string>
+
+    <string-array name="data_name">
+        <item>Ahmad Dahlan</item>
+        <item>Ahmad Yani</item>
+        <item>Soetomo</item>
+        <item>Gatot Subroto</item>
+        <item>Ki Hadjar Dewantara</item>
+        <item>Mohammad Hatta</item>
+        <item>Soedirman</item>
+        <item>Soekarno</item>
+        <item>Soepomo</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kiai Haji Ahmad Dahlan adalah seorang ulama dan pendiri Muhammadiyah, organisasi Islam modernis di Indonesia. Ia dikenal atas upayanya dalam memurnikan ajaran Islam dan memajukan pendidikan.</item>
+        <item>Jenderal TNI (Anumerta) Ahmad Yani adalah seorang pahlawan revolusi Indonesia dan salah satu korban dalam peristiwa Gerakan 30 September. Ia dikenal sebagai seorang perwira tinggi yang berdedikasi.</item>
+        <item>Dr. Soetomo adalah seorang dokter dan salah satu pendiri Budi Utomo, organisasi pergerakan nasional pertama di Indonesia. Ia berperan penting dalam membangkitkan kesadaran nasional dan perjuangan kemerdekaan.</item>
+        <item>Jenderal Gatot Soebroto adalah seorang tokoh militer Indonesia yang berperan penting dalam perjuangan kemerdekaan dan pembangunan awal TNI. Ia dikenal karena ketegasan dan kepemimpinannya.</item>
+        <item>Ki Hadjar Dewantara (Raden Mas Soewardi Soerjaningrat) adalah pelopor pendidikan bagi kaum pribumi Indonesia pada zaman penjajahan Belanda. Ia mendirikan Perguruan Taman Siswa dan dikenal dengan semboyan "Ing Ngarsa Sung Tuladha, Ing Madya Mangun Karsa, Tut Wuri Handayani".</item>
+        <item>Dr. (H.C.) Drs. Mohammad Hatta adalah seorang proklamator kemerdekaan Indonesia bersama Soekarno, serta Wakil Presiden pertama Indonesia. Ia dikenal sebagai "Bapak Koperasi Indonesia" dan seorang negarawan yang jujur dan sederhana.</item>
+        <item>Jenderal Besar TNI Raden Soedirman adalah Panglima Besar Tentara Nasional Indonesia pertama. Ia memimpin perang gerilya melawan Belanda meskipun dalam kondisi sakit parah, menunjukkan semangat juang yang luar biasa.</item>
+        <item>Dr. (H.C.) Ir. Soekarno adalah proklamator kemerdekaan Indonesia dan Presiden pertama Republik Indonesia. Ia adalah seorang orator ulung dan tokoh sentral dalam perjuangan kemerdekaan serta pembentukan negara Indonesia.</item>
+        <item>Prof. Mr. Dr. Soepomo adalah seorang ahli hukum dan salah satu arsitek Undang-Undang Dasar 1945. Ia berperan penting dalam perumusan dasar negara dan konstitusi Indonesia.</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/ahmad_dahlan</item>
+        <item>@drawable/ahmad_yani</item>
+        <item>@drawable/soetomo</item>
+        <item>@drawable/gatot_subroto</item>
+        <item>@drawable/ki_hadjar_dewantara</item>
+        <item>@drawable/mohammad_hatta</item>
+        <item>@drawable/soedirman</item>
+        <item>@drawable/soekarno</item>
+        <item>@drawable/soepomo</item>
+    </integer-array>
+
+</resources>
